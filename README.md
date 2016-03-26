@@ -1,6 +1,6 @@
 ## Digital Skip Rope
 
-We decided to create an Imaginary Skip Rope game at Global Game Jam 15 for theme - you are the controller.
+We decided to create an Imaginary Skip Rope game at Global Game Jam 15 for theme - "What do we do now?".
 
 We think this is interesting because unlike traditional Skip Rope our game is a little more forgiving - there is a relatively low risk of injury since you can jump to any height, we could introduce dynamic balancing to give new players an advantage, you could play it remotely over the Internet, there's no right and wrong answer (you're not out when you get hit), and best of all, you use your imagination.
 
